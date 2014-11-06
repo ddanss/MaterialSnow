@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elevation</string>
+    <string name="hello_world">10-20-40-80-160</string>
+
+</resources>
